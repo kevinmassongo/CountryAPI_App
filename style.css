@@ -44,3 +44,17 @@ body{
     border-bottom: 2px solid #3d64e6;
     outline: none;
 }
+
+.flags-img{
+    display: block;
+    width: 45%;
+    width: 7.5rem;
+    margin: 1.3rem auto 1.3rem auto;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
